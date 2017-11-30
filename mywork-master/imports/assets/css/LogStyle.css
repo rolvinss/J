@@ -1,0 +1,14 @@
+.LogPicImg{
+    padding: 5px;
+    background-color: #000000;
+    background-size: 70px;
+}
+
+.LogPicImg img{
+    width: 50px;
+    height: 60px;
+
+}
+.LogBox{
+    display: inline;
+}

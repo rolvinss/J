@@ -1,0 +1,26 @@
+{
+  "name": "acadlog",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "babel-runtime": "^6.18.0",
+    "bcrypt": "^1.0.3",
+    "file-loader": "^1.1.5",
+    "history": "^4.7.2",
+    "json2csv": "^3.11.5",
+    "lodash": "^4.17.4",
+    "meteor-node-stubs": "~0.2.0",
+    "react": "^16.0.0",
+    "react-csv": "^1.0.8",
+    "react-dom": "^16.0.0",
+    "react-router-dom": "^4.2.2"
+  },
+  "devDependencies": {
+    "url-loader": "^0.5.9"
+  },
+  "engines": {
+    "node": "4.6.2"
+  }
+}
